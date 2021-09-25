@@ -1,0 +1,110 @@
+[
+	{
+		"id": 1,
+		"url": "https://press.farm/wp-content/uploads/2021/03/Picture993.png",
+		"name": "Dude Perfect",
+		"content": "Sports & Comedy",
+		"subscribers": "55 Million",
+		"location": "USA",
+		"netWorth": 30
+	},
+	{
+		"id": 2,
+		"url": "https://press.farm/wp-content/uploads/2021/03/getty_494847834_20001601181884391120_387819-1536x864.jpg",
+		"name": "PewDiePie",
+		"content": "Gaming",
+		"subscribers": "109 Million",
+		"location": "UK",
+		"netWorth": 40
+	},
+	{
+		"id": 3,
+		"url": "https://press.farm/wp-content/uploads/2021/03/rhett-and-link.jpg",
+		"name": "Rhett & Link",
+		"content": "Comedy Talk Show",
+		"subscribers": "17 Million",
+		"location": "USA",
+		"netWorth": 25
+	},
+	{
+		"id": 4,
+		"url": "https://press.farm/wp-content/uploads/2021/03/lilly-singh.jpg",
+		"name": "Lilly Singh",
+		"content": "Vlogs & Comedy",
+		"subscribers": "18 Million",
+		"location": "Canada",
+		"netWorth": 20
+	},
+	{
+		"id": 5,
+		"url": "https://press.farm/wp-content/uploads/2021/03/jake-logan-paul-youtube-rules-featured.jpg",
+		"name": "Paul Brothers",
+		"content": "Comedy Vlogs",
+		"subscribers": "23 Million",
+		"location": "USA",
+		"netWorth": 36
+	},
+	{
+		"id": 6,
+		"url": "https://press.farm/wp-content/uploads/2021/03/liza-koshy-1536x864.jpg",
+		"name": "Liza Koshy",
+		"content": "TV host & Comedian",
+		"subscribers": "17 Million",
+		"location": "USA",
+		"netWorth": 6
+	},
+	{
+		"id": 7,
+		"url": "https://press.farm/wp-content/uploads/2021/03/1XRSWouZ10FHqfdtg_gzVFw.jpeg",
+		"name": "MrBeast",
+		"content": "Gaming",
+		"subscribers": "51 Million",
+		"location": "USA",
+		"netWorth": 16
+	},
+	{
+		"id": 8,
+		"url": "https://press.farm/wp-content/uploads/2021/03/AE4A7501.jpg",
+		"name": "David Dobrik",
+		"content": "Comedy & Vlogs",
+		"subscribers": "18.8 Million",
+		"location": "USA",
+		"netWorth": 20
+	},
+	{
+		"id": 9,
+		"url": "https://press.farm/wp-content/uploads/2021/03/markiplier-wme.jpg",
+		"name": "Markipiler",
+		"content": "Gaming",
+		"subscribers": "10 Million",
+		"location": "USA",
+		"netWorth": 28
+	},
+	{
+		"id": 10,
+		"url": "https://press.farm/wp-content/uploads/2021/03/1169.jpg",
+		"name": "Rayn Kaji",
+		"content": "Personal Vlogs",
+		"subscribers": "44 Million",
+		"location": "USA",
+		"netWorth": 32
+	},
+	{
+		"id": 11,
+		"url": "https://press.farm/wp-content/uploads/2021/03/afa185961581f38086f123724af0620c.jpg",
+		"name": "Zalfie",
+		"content": "Couple Vlogs",
+		"subscribers": "17Million",
+		"location": "UK",
+		"netWorth": 12
+	},
+	{
+		"id": 12,
+		"url": "https://press.farm/wp-content/uploads/2021/04/NINJA.jpg",
+		"name": "NINJA",
+		"content": "Gaming",
+		"subscribers": "23.6 Million",
+		"location": "USA",
+		"netWorth": 25
+	}
+]
