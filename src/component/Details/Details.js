@@ -1,4 +1,6 @@
 import React from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faUser } from '@fortawesome/free-solid-svg-icons';
 import './Details.css'
 
 const Details = (props) => {
@@ -10,7 +12,7 @@ const Details = (props) => {
                     <div className="card h-100">
                     <img src= {url} className="card-img-top" alt="..."/>
                     <div className="card-body">
-                    <h5 className="card-title">Channel: {name} </h5>
+                    <h5 className="card-title"> <FontAwesomeIcon icon={faUser} /> Channel: {name} </h5>
                     <p className="card-text"> Content Type : {content} </p>
                     <p className="card-text"> From : {location} </p>
                     <p className="card-text"> Subscribers : {subscribers} </p>
