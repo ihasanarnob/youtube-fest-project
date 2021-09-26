@@ -8,15 +8,14 @@ const Cart = (props) => {
     const totalReducer = (prev,current)=>prev + current.netWorth;
     const total = cart.reduce(totalReducer,0);
     return (
-        <div className="head m-4">
+        <div className="head m-3">
 
        <h3 > <FontAwesomeIcon icon={faUsers} /> Youtubers  : {props.cart.length} </h3>
-
               <h5>Total: {total} Million $USD  </h5>
 
-    
-
-            
+        {
+            cart.map(item => <h5 key = {item.id}> Channel: {item.name}  </h5> )
+        }           
         </div>
     );
 };

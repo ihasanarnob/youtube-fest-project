@@ -18,7 +18,7 @@ const Info = () => {
     }
     return (
          <div className="body-container">
-
+             {/* information of card data */}
             <div className="info-container">
              {
                 infos.map(info => <Details
@@ -28,8 +28,9 @@ const Info = () => {
                 ></Details> ) 
              }           
             </div>
+            {/* information of calculation part */}
             <div className=" cart-container">
-             <Cart
+             <Cart 
              cart = {cart}
              ></Cart>
             </div>
